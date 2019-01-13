@@ -1,1 +1,1 @@
-new array []
+array []
