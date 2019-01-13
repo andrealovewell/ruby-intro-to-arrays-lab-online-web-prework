@@ -6,7 +6,7 @@ def array_with_two_elements
   my_two_array = Array.new(2)
 end
 
-def my_first_element
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  taylor_swift.index(0)
+def my_first_element(taylor_swift)
+  taylor_swift[0]
 end
