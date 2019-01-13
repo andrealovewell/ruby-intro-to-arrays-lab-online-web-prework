@@ -1,1 +1,1 @@
-my_new_array = Array.new
+instantiate_new_array = Array.new
